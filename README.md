@@ -1,1 +1,1 @@
-# EPAM-JavaScript
+# Hardik-EPAM-JavaScript
